@@ -1,0 +1,14 @@
+D:\AratzFernandez\Sistemas Gestion Empresarial\Proceso_AratzFernandez\Proceso_AratzFernandez\bin\Debug\Proceso_AratzFernandez.exe.config
+D:\AratzFernandez\Sistemas Gestion Empresarial\Proceso_AratzFernandez\Proceso_AratzFernandez\bin\Debug\Proceso_AratzFernandez.exe
+D:\AratzFernandez\Sistemas Gestion Empresarial\Proceso_AratzFernandez\Proceso_AratzFernandez\bin\Debug\Proceso_AratzFernandez.pdb
+D:\AratzFernandez\Sistemas Gestion Empresarial\Proceso_AratzFernandez\Proceso_AratzFernandez\obj\Debug\Proceso_AratzFernandez.csproj.AssemblyReference.cache
+D:\AratzFernandez\Sistemas Gestion Empresarial\Proceso_AratzFernandez\Proceso_AratzFernandez\obj\Debug\Proceso_AratzFernandez.csproj.SuggestedBindingRedirects.cache
+D:\AratzFernandez\Sistemas Gestion Empresarial\Proceso_AratzFernandez\Proceso_AratzFernandez\obj\Debug\Proceso_AratzFernandez.Form1.resources
+D:\AratzFernandez\Sistemas Gestion Empresarial\Proceso_AratzFernandez\Proceso_AratzFernandez\obj\Debug\Proceso_AratzFernandez.Form2.resources
+D:\AratzFernandez\Sistemas Gestion Empresarial\Proceso_AratzFernandez\Proceso_AratzFernandez\obj\Debug\Proceso_AratzFernandez.Form3.resources
+D:\AratzFernandez\Sistemas Gestion Empresarial\Proceso_AratzFernandez\Proceso_AratzFernandez\obj\Debug\Proceso_AratzFernandez.Properties.Resources.resources
+D:\AratzFernandez\Sistemas Gestion Empresarial\Proceso_AratzFernandez\Proceso_AratzFernandez\obj\Debug\Proceso_AratzFernandez.csproj.GenerateResource.cache
+D:\AratzFernandez\Sistemas Gestion Empresarial\Proceso_AratzFernandez\Proceso_AratzFernandez\obj\Debug\Proceso_AratzFernandez.csproj.CoreCompileInputs.cache
+D:\AratzFernandez\Sistemas Gestion Empresarial\Proceso_AratzFernandez\Proceso_AratzFernandez\obj\Debug\Proceso_AratzFernandez.exe
+D:\AratzFernandez\Sistemas Gestion Empresarial\Proceso_AratzFernandez\Proceso_AratzFernandez\obj\Debug\Proceso_AratzFernandez.pdb
+D:\AratzFernandez\Sistemas Gestion Empresarial\Proceso_AratzFernandez\Proceso_AratzFernandez\obj\Debug\Proceso_AratzFernandez.Form4.resources
